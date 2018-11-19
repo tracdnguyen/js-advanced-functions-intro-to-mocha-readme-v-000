@@ -11,5 +11,5 @@ function sayHeyFriend(name){
 }
 
 function favoriteIceCream(name){
-  return 
+  return `I love ${name}`
 }
